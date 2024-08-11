@@ -1,4 +1,4 @@
-# TTest-Driven Development (TDD) - Documentação e Exemplos
+# Test-Driven Development (TDD) - Documentação e Exemplos
 
 Este repositório foi criado como parte de uma atividade prática para demonstrar e documentar a aplicação da metodologia Test-Driven Development (TDD). O TDD é uma abordagem de desenvolvimento de software que enfatiza a criação de testes automatizados antes da implementação de qualquer funcionalidade. Com essa prática, busca-se aumentar a qualidade do código, garantir ampla cobertura de testes e facilitar a manutenção e evolução do software.
 
@@ -207,7 +207,7 @@ func OddOrEven(num int) string {
 
 Ao executarmos o comando de teste ```go test``` temos como resultado ok para a nossa função.
 
-![alt text](image.png)
+![alt text](img/image9.png)
 
 Imagem 9: Resultado ok para a nossa função refatorada
 
