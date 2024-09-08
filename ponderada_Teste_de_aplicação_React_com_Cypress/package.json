@@ -1,0 +1,14 @@
+{
+  "name": "ponderada",
+  "version": "1.0.0",
+  "description": "ponderada romualdo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "covas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
