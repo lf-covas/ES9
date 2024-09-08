@@ -1,0 +1,1 @@
+# Ponderada Teste de aplicação React com Cypress
