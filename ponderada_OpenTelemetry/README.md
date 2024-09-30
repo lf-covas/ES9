@@ -33,7 +33,9 @@ Inicie os serviços:
 docker-compose up -d
 ```
 
-Você deve ver contêineres como signoz-frontend, signoz-query-service, signoz-otel-collector, etc.
+Você deve ver contêineres como signoz-frontend, signoz-query-service, signoz-otel-collector entre outros conforme imagem abaixo:
+
+![alt text](image-1.png)
 
 Acesse o SigNoz no navegador:
 http://localhost:3301
@@ -46,7 +48,7 @@ Crie um diretório para o projeto e inicialize o módulo Go:
 
 ```
 mkdir PONDERADA_OPENTELEMETRY
-cd ONDERADA_OPENTELEMETRY
+cd PONDERADA_OPENTELEMETRY
 go mod init PONDERADA_OPENTELEMETRY
 ```
 
@@ -82,7 +84,6 @@ func helloWorld() string {
 }
 
 func main() {
-    // Aqui podemos chamar a função helloWorld se necessário.
 }
 ```
 
