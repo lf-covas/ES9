@@ -206,7 +206,7 @@ export default function () {
 ```
 
 ### Executando os testes
-Agora para executar cada teste você deve executar o comando:
+Agora para executar cada teste você deve subir a API e executar o comando:
 
 ```
 k6 run tests/<nome do arquivo teste>.js
